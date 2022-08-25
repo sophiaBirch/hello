@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Author: Luke Wooten
  *         lwooten@unomaha.edu
@@ -22,3 +23,4 @@ int main(int argc, char **argv) {
   
   return 0;
 }
+
