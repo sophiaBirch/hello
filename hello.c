@@ -14,11 +14,11 @@ int main(int argc, char **argv) {
 
   printf("Hello World!\n");
   printf("Luke Wooten\n");
-  printf("My major is computer engineering!"\n);
+  printf("My major is computer engineering!\n\n");
   
   //Sophia's Name and Major
-  printf("Sophia Birch\n")
-  printf("Computer Engineering and Computer Science\n")
+  printf("Sophia Birch\n");
+  printf("Computer Engineering and Computer Science\n");
   
   return 0;
 }
