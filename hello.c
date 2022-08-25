@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /**
  * Author: Luke Wooten
  *         lwooten@unomaha.edu
